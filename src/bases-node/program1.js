@@ -7,7 +7,7 @@ const multiply = (stNum,ndNum) => {
 	}
 	return console.log(`The result (multiply) is: ${result}`);
 }
-multiply(5,2);
+multiply(0,2);
 
 ////////////////////////////
 let ndCont = 0;
