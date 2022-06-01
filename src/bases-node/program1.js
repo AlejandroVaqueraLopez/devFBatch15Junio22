@@ -5,9 +5,9 @@ const multiply = (stNum,ndNum) => {
 	for(cont = 0; cont < ndNum; cont++){
 		result += stNum;
 	}
-	console.log(`The result (multiply) is: ${result}`);
+	return console.log(`The result (multiply) is: ${result}`);
 }
-multiply(5,8);
+multiply(5,2);
 
 ////////////////////////////
 let ndCont = 0;
