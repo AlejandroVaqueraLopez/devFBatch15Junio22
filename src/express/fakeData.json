@@ -1,0 +1,22 @@
+[
+  {
+    "id":1,
+    "name":"Pickachu",
+    "power":"Lightning"
+  },
+  {
+    "id":2,
+    "name":"Pickachu2",
+    "power":"Lightning"
+  },
+  {
+    "id":3,
+    "name":"Pickachu3",
+    "power":"Lightning"
+  },
+  {
+    "id":4,
+    "name":"Pickachu4",
+    "power":"Lightning"
+  }
+]
